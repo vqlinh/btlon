@@ -22,8 +22,9 @@
                     <td>{{ post.date }}</td>
                     <td class="tool-header">
                         <div class="tool">
-                            <div class="edit"><button>Sửa</button></div>
-                            <div class="delete"><button @click="deletePost">Xóa</button></div>
+                            <div class="edit"><router-link :to="`/admin/${post.id}`">Sửa</router-link></div>
+                            <!-- <router-link :to="{ name: 'admin:id', params: { id: post.id } }">Sua</router-link> -->
+                            <div class="delete"><button @click="deletePost(post.id)">Xóa</button></div>
                         </div>
                     </td>
                 </tr>
@@ -44,9 +45,13 @@ const getData = function () {
 }
 getData();
 
-const deletePost = function () {
+const deletePost = function (id) {
+    axios.delete(`http://localhost:3000/posts/${id}`).then((res) => {
+        console.log(res)
+    }).catch((err) => {
+        console.log(err)
+    })
     getData();
-    
 }
 </script>
 

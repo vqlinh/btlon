@@ -5,7 +5,8 @@ import { createRouter, createWebHashHistory } from 'vue-router';
 import Home from './components/Home.vue';
 import HomePage from './pages/HomePage.vue';
 import AdminPage from './pages/AdminPage.vue';
-import PostList from './pages/admin/PostList.vue';
+import PostList from './pages/admin/PostList/index.vue';
+import PostUpdate from './pages/admin/PostList/_id.vue';
 import PostAdd from './pages/admin/PostAdd.vue';
 import { library } from '@fortawesome/fontawesome-svg-core'
 
@@ -23,6 +24,7 @@ const routes = [
         path: '/admin', component: AdminPage,   
         children: [
             { path: '', component: PostList },
+            { path: ':id', component: PostUpdate },
             { path: 'post-add', component: PostAdd }
         ]
     },

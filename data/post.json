@@ -1,38 +1,6 @@
 {
   "posts": [
     {
-      "id": 1,
-      "date": "26-02-2001",
-      "title": "How to succeed with marketing content?",
-      "author": "https://secure.gravatar.com/avatar/?s=32&d=mm&r=g",
-      "image": "https://demo.theme-junkie.com/beginner/files/2016/02/happy-680x380.jpg",
-      "shortDecription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam molestie molestie nisl, eu scelerisque turpis tempus at. Nam luctus ultrices imperdiet. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse velit orci, pretium ut feugiat nec, lobortis et est. Nullam cursus ultrices tincidunt. Nam gravida sem gravida ipsum dignissim in"
-    },
-    {
-      "id": 1,
-      "date": "26-02-2001",
-      "title": "How to succeed with marketing content?",
-      "author": "https://secure.gravatar.com/avatar/?s=32&d=mm&r=g",
-      "image": "https://demo.theme-junkie.com/beginner/files/2016/02/happy-680x380.jpg",
-      "shortDecription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam molestie molestie nisl, eu scelerisque turpis tempus at. Nam luctus ultrices imperdiet. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse velit orci, pretium ut feugiat nec, lobortis et est. Nullam cursus ultrices tincidunt. Nam gravida sem gravida ipsum dignissim in"
-    },
-    {
-      "id": 1,
-      "date": "26-02-2001",
-      "title": "How to succeed with marketing content?",
-      "author": "https://secure.gravatar.com/avatar/?s=32&d=mm&r=g",
-      "image": "https://demo.theme-junkie.com/beginner/files/2016/02/happy-680x380.jpg",
-      "shortDecription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam molestie molestie nisl, eu scelerisque turpis tempus at. Nam luctus ultrices imperdiet. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse velit orci, pretium ut feugiat nec, lobortis et est. Nullam cursus ultrices tincidunt. Nam gravida sem gravida ipsum dignissim in"
-    },
-    {
-      "id": 1,
-      "date": "26-02-2001",
-      "title": "How to succeed with marketing content?",
-      "author": "https://secure.gravatar.com/avatar/?s=32&d=mm&r=g",
-      "image": "https://demo.theme-junkie.com/beginner/files/2016/02/happy-680x380.jpg",
-      "shortDecription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam molestie molestie nisl, eu scelerisque turpis tempus at. Nam luctus ultrices imperdiet. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse velit orci, pretium ut feugiat nec, lobortis et est. Nullam cursus ultrices tincidunt. Nam gravida sem gravida ipsum dignissim in"
-    },
-    {
       "title": "bai viet test 1",
       "author": "https://demo.theme-junkie.com/beginner/files/2016/02/logo.png",
       "image": "https://demo.theme-junkie.com/beginner/files/2016/02/logo.png",
@@ -64,7 +32,6 @@
       "date": "december/16/2022",
       "id": 5
     },
-    
     {
       "title": "ten bai viet 5",
       "author": "https://i.pinimg.com/736x/21/d6/7f/21d67f1d6b3be5bb2e39395311c77fc6.jpg",
@@ -72,14 +39,6 @@
       "shortDecription": "noi dung 5",
       "date": "23/04/01",
       "id": 25
-    },
-    {
-      "title": "",
-      "author": "",
-      "image": "",
-      "shortDecription": "",
-      "date": "",
-      "id": 26
     },
     {
       "title": "ten bai viet 6",
